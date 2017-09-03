@@ -1,0 +1,16 @@
+img {
+    width: 100%; max-width: 100%;
+}
+div {
+    position: absolute; left: 20%; top: 20%;
+    width: 500px;
+    transition: all 2s ease-in-out;
+}
+div:hover {
+    transform: scale(2,2)
+}
+<div>
+    <a href="http://photobucket.com/images/cat" target="_blank">
+        <img src="http://i583.photobucket.com/albums/ss278/campipr/coolcat.gif" border="0" alt="cat photo: cat coolcat.gif"/>
+    </a>
+</div>
